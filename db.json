@@ -16,7 +16,8 @@
     },
     "Areas of Interest": {
         "files": [
-            "areas_of_interest/ubcv_neighbourhoods.geojson"
+            "areas_of_interest/ubcv_neighbourhoods.geojson",
+            "areas_of_interest/gardens.geojson"
         ]
     },
     "Tree Cover Polygon Datasets": {

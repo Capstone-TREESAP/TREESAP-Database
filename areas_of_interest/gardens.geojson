@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[
+                    [49.2672, -123.2599],
+                    [49.2661, -123.2589],
+                    [49.2656, -123.2602],
+                ]]
+            },
+            "properties": {
+                "NAME": "Nitobe Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[
+                    [49.2691, -123.2566],
+                    [49.2693, -123.2560],
+                    [49.2695, -123.2569],
+                    [49.2697, -123.2564],
+                ]]
+            },
+            "properties": {
+                "NAME": "Rose Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [[
+                    [49.2571, -123.2480],
+                    [49.2576, -123.2468],
+                    [49.2563, -123.2458],
+                    [49.2559, -123.2471],
+                ]]
+            },
+            "properties": {
+                "NAME": "Rhododendron Wood"
+            }
+        },
+    ]
+}
