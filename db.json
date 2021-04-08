@@ -32,6 +32,21 @@
                 "orthophoto/2014_orthophoto_tree_cover.geojson"
             ]
         },
+        "Orthophoto 2015": {
+            "files": [
+                "orthophoto/2015_orthophoto_tree_cover.geojson"
+            ]
+        },
+        "Orthophoto 2016": {
+            "files": [
+                "orthophoto/2016_orthophoto_tree_cover.geojson"
+            ]
+        },
+        "Orthophoto 2017": {
+            "files": [
+                "orthophoto/2017_orthophoto_tree_cover.geojson"
+            ]
+        },
         "Orthophoto 2018": {
             "files": [
                 "orthophoto/2018_orthophoto_tree_cover.geojson"
